@@ -409,7 +409,8 @@ link:visited {
 
 .permanent-client-icon{
     fill: #AFB1B8;
-    padding: 32px 16px;
+    width: 106px;
+    height: 60px;
     display: inline-block;
 }
 
@@ -474,7 +475,7 @@ link:visited {
 .footer-flex {
     display: flex;
     gap: 70px;
-    align-items: center;
+    align-items: baseline;
 }
 
 .team-soc {
